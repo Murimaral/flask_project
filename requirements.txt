@@ -1,0 +1,5 @@
+flask
+flask_restful
+flask_jwt
+werkzeug==2.0.0
+
